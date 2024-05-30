@@ -7,6 +7,10 @@ const TableData = () => {
   // Sample data
   const [openModal, setOpenModal] = useState(false);
   const [selectedData, setSelectedData] = useState(null);
+  // const [selectedData, setSelectedData] = useState(null);
+  // const [selectedData, setSelectedData] = useState(null);
+  // const [selectedData, setSelectedData] = useState(null);
+  // const [selectedData, setSelectedData] = useState(null);
   const [data, setData] = useState([
     { name: 'John Doe', mobile: '9876543210', customerId: 'C001', address: '123 Street, City' },
     { name: 'Tom Cruise', mobile: '9234567890', customerId: 'C002', address: '456 Street, City' },
